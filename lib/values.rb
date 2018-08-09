@@ -7,7 +7,7 @@ require 'pry'
 #  meat: ["chicken", "steak", "salmon"],
 #  grains: ["rice", "pasta"]
 # }
-groceriess = {fruit: "Banana", vegetable: "Broccoli", dessert: "Cookie"}
+groceries = {fruit: "Banana", vegetable: "Broccoli", dessert: "Cookie"}
 groceries.values
 
 def get_the_values(groceries)
